@@ -1,2 +1,3 @@
 # clone-TabNews
-Trabalho do Curso.Dev do Filipe 
+
+Trabalho do Curso.Dev do Filipe
